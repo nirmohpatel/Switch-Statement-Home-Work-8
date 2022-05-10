@@ -12,6 +12,8 @@ public class Calculator // Class
             double num1 = scanner.nextDouble();   // local variable, To input First number
             System.out.print("Enter second number :- ");    // Print Statement
             double num2 = scanner.nextDouble();   // local variable, To input second number
+			
+			
 
                 switch (operator) // Switch expression
                 {
